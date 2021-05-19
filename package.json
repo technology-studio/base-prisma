@@ -55,8 +55,7 @@
     "preset": "ts-jest",
     "testEnvironment": "node",
     "testMatch": [
-      "<rootDir>/__tests__/**/*.ts",
-      "**/?(*.)(spec|test).ts?(x)"
+      "<rootDir>/__tests__/**/?(*.)(spec|test).ts?(x)"
     ],
     "transformIgnorePatterns": [
       "/node_modules/(?!@txo).+\\.js$"
