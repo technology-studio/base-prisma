@@ -1,3 +1,7 @@
 // @import './header.template.prisma'
-// @import '@txo/identity-prisma/prisma/src/identity.template.prisma'
-// @import './itcrew.template.prisma'
+// @import './base.template.prisma'
+
+model Test { // @inherits BaseModel
+
+  test String
+}
