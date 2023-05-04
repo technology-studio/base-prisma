@@ -1,0 +1,3 @@
+// @import './header.template.prisma'
+// @import '@txo/identity-prisma/prisma/src/identity.template.prisma'
+// @import './itcrew.template.prisma'

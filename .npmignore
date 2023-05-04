@@ -1,0 +1,9 @@
+**
+!/src/
+!/src/**/*
+!/lib/
+!/lib/**/*
+!/prisma
+!/prisma/**/*
+!/*.md
+!/package.json
