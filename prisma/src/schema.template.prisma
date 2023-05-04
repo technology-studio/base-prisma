@@ -1,0 +1,7 @@
+// @import './header.template.prisma'
+// @import './base.template.prisma'
+
+model Test { // @inherits BaseModel
+
+  test String
+}

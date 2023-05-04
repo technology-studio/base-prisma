@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>technology-studio/renovate-config"
+  ],
+  "packageRules": [
+    {
+      "extends": "monorepo:prisma",
+      "rangeStrategy": "update-lockfile"
+    }
+  ]
+}
