@@ -6170,10 +6170,10 @@ nerf-dart@^1.0.0:
   resolved "https://registry.yarnpkg.com/nerf-dart/-/nerf-dart-1.0.0.tgz#e6dab7febf5ad816ea81cf5c629c5a0ebde72c1a"
   integrity sha512-EZSPZB70jiVsivaBLYDCyntd5eH8NTSMOn3rB+HxwdmKThGELLdYv8qVIMWvZEFy9w8ZZpW9h9OB32l1rGtj7g==
 
-nexus-prisma@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/nexus-prisma/-/nexus-prisma-1.0.5.tgz#7e023b7010a4973c137ac9d929dc0400c9476a1c"
-  integrity sha512-27Z+3MtoxAAZPbIlZeOoudXnxYYMEvH6rWAzfm4svpnlYAaBtlRKeljGPVBx/gYDx/oNn2OBjKo8+fb+Ebry5A==
+nexus-prisma@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/nexus-prisma/-/nexus-prisma-1.0.6.tgz#f66b474573381bc59625031b7c63943b07698901"
+  integrity sha512-w+sUnbtURQKkCBpZ8GcalZxahTBFNffUzppGSQqHaytggt/7XjSFoWo4WLp3yYASywB9TdsKiP6DDJkjX1cGWw==
   dependencies:
     "@prisma/generator-helper" "^4.0"
     debug "^4.3.4"
@@ -6186,12 +6186,12 @@ nexus-prisma@^1.0.5:
     lodash "^4.17.21"
     ono "^7.1.3"
     pluralize "^8.0.0"
-    semver "^7.3.8"
+    semver "^7.5.1"
     setset "^0.0.9"
     ts-replace-all "^1.0.0"
     tslib "^2.5.0"
   optionalDependencies:
-    semantic-release "^21.0.1"
+    semantic-release "^21.0.2"
 
 nexus@^1.3.0:
   version "1.3.0"
@@ -7509,7 +7509,7 @@ semantic-release-slack-bot@^4.0.1:
     node-fetch "^2.3.0"
     slackify-markdown "^4.3.0"
 
-semantic-release@^21.0.1, semantic-release@^21.0.2:
+semantic-release@^21.0.2:
   version "21.0.2"
   resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-21.0.2.tgz#c8610c25864c761f3a3acc2eb39c166f4e0200e4"
   integrity sha512-Hl6lyJdZ0pAYD07Z1FIUmg06UzSC3fEjHS7U31YppNQ8jOwjjt7pVzW9OfpoO0vbmqD3Tc+b/iZh5fqvKt01OA==
@@ -7576,6 +7576,13 @@ semver@^6.0.0, semver@^6.3.0:
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
+
+semver@^7.5.1:
+  version "7.5.1"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.5.1.tgz#c90c4d631cf74720e46b21c1d37ea07edfab91ec"
+  integrity sha512-Wvss5ivl8TMRZXXESstBA4uR5iXgEN/VC5/sOcuXdVLzcdkz4HWetIoRfG5gb5X+ij/G9rw9YoGn3QoQ8OCSpw==
+  dependencies:
+    lru-cache "^6.0.0"
 
 set-blocking@^2.0.0:
   version "2.0.0"
