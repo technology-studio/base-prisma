@@ -8,6 +8,5 @@
       "extends": "monorepo:prisma",
       "rangeStrategy": "update-lockfile"
     }
-  ],
-  "separateMultipleMajor": false
+  ]
 }
