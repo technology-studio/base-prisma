@@ -20,4 +20,7 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn prisma generate
       - run: yarn test --coverage
+      - run: yarn schema:process
+      - name: Ensure there are no uncommitted changes
+        run: test -z "$(git status --porcelain)"
       - uses: codecov/codecov-action@v3
