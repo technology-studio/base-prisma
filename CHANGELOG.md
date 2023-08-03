@@ -1,3 +1,15 @@
+## [2.0.8](https://github.com/technology-studio/base-prisma/compare/v2.0.7...v2.0.8) (2023-08-03)
+
+
+### CI
+
+* add detection for uncommited schema changes ([#105](https://github.com/technology-studio/base-prisma/issues/105)) ([c939307](https://github.com/technology-studio/base-prisma/commit/c9393075096eade3794ce3741282f831f6c856aa))
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5 ([#79](https://github.com/technology-studio/base-prisma/issues/79)) ([bda018d](https://github.com/technology-studio/base-prisma/commit/bda018d3069f88174c9affc3d08b54ac4c0a60f8))
+
 ## [2.0.7](https://github.com/technology-studio/base-prisma/compare/v2.0.6...v2.0.7) (2023-08-02)
 
 ## [2.0.6](https://github.com/technology-studio/base-prisma/compare/v2.0.5...v2.0.6) (2023-06-30)
