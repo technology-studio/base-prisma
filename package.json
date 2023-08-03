@@ -16,8 +16,8 @@
   "license": "UNLICENSED",
   "private": false,
   "scripts": {
-    "schema:process": "prisma-schema process ./prisma/src/schema.template.prisma --output-file ./prisma/schema.prisma",
-    "schema:process:watch": "chokidar \"./prisma/src/**/*.template.prisma\" -c \" yarn schema:process\"",
+    "schema:process": "prisma-schema process ./prisma/src/schema.template.prisma --force --output-file ./prisma/schema.prisma && yarn prisma format",
+    "schema:process:watch": "chokidar \"./prisma/src/**/*.template.prisma\" -c \" yarn schema:process && yarn prisma format\"",
     "build": "yarn build:clean && yarn build:lib",
     "build:clean": "yarn rimraf lib",
     "build:lib": "yarn tsc",
