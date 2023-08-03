@@ -1469,10 +1469,10 @@
   resolved "https://registry.yarnpkg.com/@txo/log-console/-/log-console-3.0.0.tgz#56506a8c6afea9109301ff96520c43815814022d"
   integrity sha512-Dl7dnPMUXRr1JSBysUmzT9/RjMm9FWJdtZ9CXVnh9K4qwpT4fnjDV+GWiHHWAqob47XcE7N98M8rShGmpsukqg==
 
-"@txo/prisma-schema@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@txo/prisma-schema/-/prisma-schema-1.1.1.tgz#ea52a29870055f6f3752c95cfabe1c0dc01c2376"
-  integrity sha512-paINy6qJ6yMmQRXu/0gAhisPYK7Kf7jw1llyo5Csxv72vyiAoHHs4Ra3g9Jt8EapRCeQ5DbLf+pkv3y1Ywxchw==
+"@txo/prisma-schema@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@txo/prisma-schema/-/prisma-schema-1.1.2.tgz#eaa1a5598ce40129b5d179c90ee8bdb55568db5f"
+  integrity sha512-YwO+lJFVE0zCjm/b5NwGFYP1BI0bQAs5VjPtLUdkRZjt3D/W3qDSdwTRcWqtGyLVvLOM0o2Y6xKMHyxAtOu/Pg==
 
 "@types/babel__core@^7.1.14":
   version "7.20.0"
