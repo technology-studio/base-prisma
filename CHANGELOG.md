@@ -1,3 +1,15 @@
+## [2.0.9](https://github.com/technology-studio/base-prisma/compare/v2.0.8...v2.0.9) (2023-08-23)
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.2.0 ([8a4d514](https://github.com/technology-studio/base-prisma/commit/8a4d514ba82b8a936e656cd0154b1204da4fb4f4))
+
+
+### Testing
+
+* move schema test under own workflow ([#106](https://github.com/technology-studio/base-prisma/issues/106)) ([f8040d0](https://github.com/technology-studio/base-prisma/commit/f8040d04fab0fd7ac16335f6e2b1a9ca6a03bf89))
+
 ## [2.0.8](https://github.com/technology-studio/base-prisma/compare/v2.0.7...v2.0.8) (2023-08-03)
 
 
