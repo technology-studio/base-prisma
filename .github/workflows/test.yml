@@ -20,4 +20,4 @@ jobs:
       - run: yarn install --frozen-lockfile
       - run: yarn prisma generate
       - run: yarn test --coverage
-      - uses: codecov/codecov-action@v3
+      - uses: codecov/codecov-action@v4
