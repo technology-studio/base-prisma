@@ -1,3 +1,24 @@
+## [2.0.14](https://github.com/technology-studio/base-prisma/compare/v2.0.13...v2.0.14) (2023-10-10)
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.4.2 ([b2a3d2c](https://github.com/technology-studio/base-prisma/commit/b2a3d2cfbdb35b94e3a43b85d56827ffabd04388))
+
+## [2.0.13](https://github.com/technology-studio/base-prisma/compare/v2.0.12...v2.0.13) (2023-10-05)
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.4.1 ([50ef8b8](https://github.com/technology-studio/base-prisma/commit/50ef8b8168e23c8cfe6b5fd667292ccdf3b4d61c))
+
+## [2.0.12](https://github.com/technology-studio/base-prisma/compare/v2.0.11...v2.0.12) (2023-10-04)
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.4.0 ([9783c43](https://github.com/technology-studio/base-prisma/commit/9783c435917820127820f22451a1325b5649cfab))
+
 ## [2.0.11](https://github.com/technology-studio/base-prisma/compare/v2.0.10...v2.0.11) (2023-09-15)
 
 
