@@ -316,7 +316,7 @@
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
-"@commitlint/cli@^17.7.2":
+"@commitlint/cli@^17.8.1":
   version "17.8.1"
   resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-17.8.1.tgz#10492114a022c91dcfb1d84dac773abb3db76d33"
   integrity sha512-ay+WbzQesE0Rv4EQKfNbSMiJJ12KdKTDzIt0tcK4k11FdsWmtwP0Kp1NWMOUswfIWo6Eb7p7Ln721Nx9FLNBjg==
@@ -332,7 +332,7 @@
     resolve-global "1.0.0"
     yargs "^17.0.0"
 
-"@commitlint/config-conventional@^17.7.0":
+"@commitlint/config-conventional@^17.8.1":
   version "17.8.1"
   resolved "https://registry.yarnpkg.com/@commitlint/config-conventional/-/config-conventional-17.8.1.tgz#e5bcf0cfec8da7ac50bc04dc92e0a4ea74964ce0"
   integrity sha512-NxCOHx1kgneig3VLauWJcDWS40DVjg7nKOpBEEK9E5fjJpQqLCilcnKkIIjdBH98kEO1q3NpE5NSrZ2kl/QGJg==
@@ -1680,13 +1680,13 @@
   dependencies:
     "@txo/config-manager" "^3.1.0"
 
-"@txo/commitlint@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@txo/commitlint/-/commitlint-1.0.0.tgz#ebdeae7482fc5278e0dbdec66383022abab67392"
-  integrity sha512-Gf3qE6A+mTnY55u2jtP2ISOF4y4H/tHRMaYEsIy2k3rkI28M87qFLDzwYrYJV1e0FYdT5XzOyHGW098kZky1TA==
+"@txo/commitlint@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@txo/commitlint/-/commitlint-1.0.2.tgz#b9c1fff48ea6b24c17c6608538a24521b13f1cdb"
+  integrity sha512-cDVfrhNEZjKaJFj9tLVNa1b9XKvCV97yODg9sOUFcy7yw+qIPsScxK2xgh0Mxjr5intl6htJQFAu0tOMIbD26A==
   dependencies:
-    "@commitlint/cli" "^17.7.2"
-    "@commitlint/config-conventional" "^17.7.0"
+    "@commitlint/cli" "^17.8.1"
+    "@commitlint/config-conventional" "^17.8.1"
     commitizen "^4.3.0"
 
 "@txo/config-manager@^3.1.0":
