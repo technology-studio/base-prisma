@@ -1,3 +1,10 @@
+## [2.0.21](https://github.com/technology-studio/base-prisma/compare/v2.0.20...v2.0.21) (2024-01-15)
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.8.1 ([ae8bc69](https://github.com/technology-studio/base-prisma/commit/ae8bc69c19492a60e8fb042ba4a33de0d8525c5f))
+
 ## [2.0.20](https://github.com/technology-studio/base-prisma/compare/v2.0.19...v2.0.20) (2024-01-09)
 
 
