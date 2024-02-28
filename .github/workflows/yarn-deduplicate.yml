@@ -1,0 +1,12 @@
+name: Run `npx yarn-deduplicate`
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  yarn-deduplicate-on-comment:
+    name: '/'
+    if: contains(github.event.comment.body, '/deduplicate yarn.lock')
+    uses: technology-studio/github-workflows/.github/workflows/_yarn-deduplicate.yml@main
+    secrets: inherit
