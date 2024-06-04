@@ -1,6 +1,6 @@
 {
   "name": "@txo/base-prisma",
-  "version": "2.0.29",
+  "version": "2.0.30",
   "description": "Technology Studio - Base prisma",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
