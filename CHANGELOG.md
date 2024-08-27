@@ -1,3 +1,15 @@
+## [2.0.37](https://github.com/technology-studio/base-prisma/compare/v2.0.36...v2.0.37) (2024-08-27)
+
+
+### CI
+
+* add lint command for CI ([#408](https://github.com/technology-studio/base-prisma/issues/408)) ([281016c](https://github.com/technology-studio/base-prisma/commit/281016c6305def8dc3e10ca470b201cffeb5696d))
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.19.0 ([b4079d4](https://github.com/technology-studio/base-prisma/commit/b4079d4237db0e96962149ac55ecadad33a5669e))
+
 ## [2.0.36](https://github.com/technology-studio/base-prisma/compare/v2.0.35...v2.0.36) (2024-08-06)
 
 
