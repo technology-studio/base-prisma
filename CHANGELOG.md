@@ -1,3 +1,15 @@
+## [2.0.38](https://github.com/technology-studio/base-prisma/compare/v2.0.37...v2.0.38) (2024-09-02)
+
+
+### CI
+
+* update URL for code-quality ([#414](https://github.com/technology-studio/base-prisma/issues/414)) ([f8aa4a7](https://github.com/technology-studio/base-prisma/commit/f8aa4a7abce780fd24a54593a73b833935865376))
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.19.1 ([d844cc6](https://github.com/technology-studio/base-prisma/commit/d844cc65d1aa214822d940ea933bd09e1b9b376f))
+
 ## [2.0.37](https://github.com/technology-studio/base-prisma/compare/v2.0.36...v2.0.37) (2024-08-27)
 
 
