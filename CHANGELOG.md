@@ -1,3 +1,15 @@
+## [2.0.39](https://github.com/technology-studio/base-prisma/compare/v2.0.38...v2.0.39) (2024-09-24)
+
+
+### CI
+
+* rename workflows ([#420](https://github.com/technology-studio/base-prisma/issues/420)) ([0adc962](https://github.com/technology-studio/base-prisma/commit/0adc962a39195113e2a0e96ae44ab0b1e22e9733))
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v5.20.0 ([f3d757d](https://github.com/technology-studio/base-prisma/commit/f3d757de89b144e447c4b1f549d6e382ceacc54c))
+
 ## [2.0.38](https://github.com/technology-studio/base-prisma/compare/v2.0.37...v2.0.38) (2024-09-02)
 
 
