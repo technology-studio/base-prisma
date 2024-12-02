@@ -1,3 +1,16 @@
+## [2.0.43](https://github.com/technology-studio/base-prisma/compare/v2.0.42...v2.0.43) (2024-12-02)
+
+
+### CI
+
+* add synchronize to PR workflow ([#451](https://github.com/technology-studio/base-prisma/issues/451)) ([db5c09d](https://github.com/technology-studio/base-prisma/commit/db5c09d40cabfed252bdec6a4ad39a897cce8143))
+* update pr and release workflows ([#448](https://github.com/technology-studio/base-prisma/issues/448)) ([dbe5f39](https://github.com/technology-studio/base-prisma/commit/dbe5f39ad0bfc2df1df7138a7a5344bcab8944ff))
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v6 ([#458](https://github.com/technology-studio/base-prisma/issues/458)) ([1ca442a](https://github.com/technology-studio/base-prisma/commit/1ca442a3416297804c9f3360bb9955cf525315af))
+
 ## [2.0.42](https://github.com/technology-studio/base-prisma/compare/v2.0.41...v2.0.42) (2024-11-05)
 
 
