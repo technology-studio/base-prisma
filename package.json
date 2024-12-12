@@ -34,7 +34,7 @@
     "sanity": "yarn lint:ci && yarn build && tsc --noEmit && yarn test --coverage && yarn prisma generate && yarn compare-boilerplate-version && echo 'success'",
     "semantic-release": "semantic-release",
     "update-boilerplate-version": "./scripts/update-boilerplate-version.sh",
-    "lint:ci": "yarn txo-eslint ccr && yarn eslint -c eslint-ci.config.js .",
+    "lint:ci": "yarn txo-eslint ccr --cache && yarn eslint -c eslint-ci.config.js --cache .",
     "type-check": "tsc --noEmit"
   },
   "engines": {
