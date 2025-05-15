@@ -1,3 +1,10 @@
+## [2.0.55](https://github.com/technology-studio/base-prisma/compare/v2.0.54...v2.0.55) (2025-05-15)
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v6.8.1 ([#610](https://github.com/technology-studio/base-prisma/issues/610)) ([2abeffb](https://github.com/technology-studio/base-prisma/commit/2abeffb49a2ba8118d09a20a54c2fd874e66fac3))
+
 ## [2.0.54](https://github.com/technology-studio/base-prisma/compare/v2.0.53...v2.0.54) (2025-04-29)
 
 
