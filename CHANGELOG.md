@@ -1,3 +1,15 @@
+## [2.0.68](https://github.com/technology-studio/base-prisma/compare/v2.0.67...v2.0.68) (2025-10-03)
+
+
+### CI
+
+* add pr.yml permissions ([#705](https://github.com/technology-studio/base-prisma/issues/705)) ([c381bda](https://github.com/technology-studio/base-prisma/commit/c381bda609a07d5686d21235e3a4c4700b0e0a75))
+
+
+### Bug fixes
+
+* **deps:** update prisma monorepo to v6.16.3 ([#714](https://github.com/technology-studio/base-prisma/issues/714)) ([0ecb1ec](https://github.com/technology-studio/base-prisma/commit/0ecb1ecb733e3d9d504d32479262e1ca4f613d92))
+
 ## [2.0.67](https://github.com/technology-studio/base-prisma/compare/v2.0.66...v2.0.67) (2025-09-19)
 
 
