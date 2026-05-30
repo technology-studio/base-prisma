@@ -8,5 +8,5 @@ jobs:
   yarn-deduplicate-on-comment:
     name: '/'
     if: contains(github.event.comment.body, '/deduplicate yarn.lock')
-    uses: technology-studio/github-workflows/.github/workflows/_yarn-deduplicate.yml@main
+    uses: technology-studio/github-workflows/.github/workflows/_yarn-deduplicate.yml@696ee6d68a8fdb357c5a6e26e748fba32f09a9bb # main
     secrets: inherit
