@@ -10,5 +10,5 @@ on:
 jobs:
   prisma-schema:
     name: 'Validate prisma schema'
-    uses: technology-studio/github-workflows/.github/workflows/_prisma.yml@main
+    uses: technology-studio/github-workflows/.github/workflows/_prisma.yml@348654261ffb51128ef6287c0c2dc32ddcbebbbf # main
     secrets: inherit
